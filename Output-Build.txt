@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Bubblesort, Configuration: Debug x64 ------
+1>Bubblesort.cpp
+1>Bubblesort.vcxproj -> D:\ALGORITMA\Bubblesort\x64\Debug\Bubblesort.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:31 PM and took 01.519 seconds ==========
